@@ -1,6 +1,15 @@
 - 👋 Hi, I’m @talhaibnmahmud
-- 👀 I’m interested in ... `Web Development, Software Development, Data Science, Machine Learning & AI`
-- 🌱 I’m currently learning ... `Django, NodeJS, Angular, React, Vue, Svelte & NextJS`
+- 👀 I’m interested in ... 
+  - Web Development 
+  - Mobile Development
+  - Software Development, 
+  - Data Science, 
+  - Machine Learning & Artificial Intelligence
+- 🌱 I’m currently learning ... 
+  - Django
+  - NodeJS 
+  - React 
+  - NextJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
